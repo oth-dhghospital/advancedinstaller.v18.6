@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FRAGMENT Type="ReadOnly" CreateVersion="18.5" RootPath="." Language="en">
+  <COMPONENT cid="caphyon.advinst.msicomp.PreReqComponent">
+    <ROW PrereqKey="AEEB73CE673349D2BADF9D8EB73C7437" DisplayName=".NET Desktop Runtime 5.0.8 x86" VersionMin="5.0"
+      SetupFileUrl="https://download.visualstudio.microsoft.com/download/pr/c1c0117b-3565-4661-9a77-7629c937f808/90a45135929796778a9fd418bbad6bb3/windowsdesktop-runtime-5.0.8-win-x86.exe"
+      Location="1" ExactSize="49077752" MD5="1792242b73d4ae9b2c90b03435ad3085"
+      WinNTVersions="Windows Vista x86, Windows Server 2008 x86, Windows 7 RTM x86, Windows 8 x86, Windows 10 version 1507 x86, Windows 10 version 1511 x86"
+      WinNT64Versions="Windows Vista x64, Windows Server 2008 x64, Windows 7 RTM x64, Windows Server 2008 R2 x64, Windows 8 x64, Windows Server 2012 x64, Windows 10 version 1507 x64, Windows 10 version 1511 x64"
+      NoUiComLine="/q /norestart"
+      Operator="1" Options="y" TargetName=".NET 5.0"/>
+    <ATTRIBUTE name="GroupName" value=".NET"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.PreReqSearchComponent">
+    <ROW SearchKey="AEEB73CE673349D2BADF9D8EB73C7437Microsoft.WindowsDesktop.App" Prereq="AEEB73CE673349D2BADF9D8EB73C7437" SearchType="0"
+      SearchString="[ProgramFilesFolder]dotnet\shared\Microsoft.WindowsDesktop.App\5.0.8\Microsoft.WindowsDesktop.App.runtimeconfig.json"
+      Order="1" Property="PreReqSearch_AEEB73CE673349D2BADF9D8EB73C7437"/>
+  </COMPONENT>
+</FRAGMENT>

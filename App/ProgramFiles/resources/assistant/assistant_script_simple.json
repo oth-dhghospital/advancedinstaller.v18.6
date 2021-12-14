@@ -1,0 +1,162 @@
+{
+    "ProcessPath": [
+        {
+            "Path": "D:\\advinst\\win\\Debug\\bin\\x86\\advinst.exe",
+            "ExpectedReturnCode": 1,
+            "MainWindowSize": {
+                "Width": 1920,
+                "Height": 1036
+            },
+            "RunPath": [
+               
+                { "ActionText": "Enter details about your product. Please specify your product name", "Action": "Prompt" },
+                {
+                    "WindowText_": "Your Application",
+                    "WindowClass": "AI_ThemedPaneContainer/#32770/SysTabControl32/#32770/AI_SciCtrl",
+                    "ControlID": 11382,
+                    "AccessibleName_": "Your Application",
+                    "AccessibleType_": "Dialog/Window[@name='Your Application']/Client",
+                    "Action": "HighLightRect"
+                },
+                { "WaitTime": 60000, "Action": "Wait"},
+                { "ActionText": "Please specify your organization (the product manufacturer)", "Action": "Prompt" },
+                {
+                    "WindowText": "Your Company",
+                    "WindowClass": "AI_ThemedPaneContainer/#32770/SysTabControl32/#32770/AI_SciCtrl",
+                    "ControlID": 11384,
+                    "AccessibleName": "Your Company",
+                    "AccessibleType": "Dialog/Window[@name='Your Company']/Client",
+                    "Action": "HighLightRect"
+                },
+                { "WaitTime": 60000, "Action": "Wait"},
+                { "ActionText": "Select distribution type", "Action": "Prompt" },
+                {
+                    "WindowClass": "AiMainFrame/AI_SplitterWindow/AI_SplitterWindow/ATL:[0-9A-F]+",
+                    "AccessibleName": "Builds",
+                    "AccessibleType": "List/ListItem/StaticText",
+                    "Action": "HighLightRect"
+                },
+                {
+                    "WindowClass": "AI_SplitterWindow/AI_ThemedPaneContainer/AI_ThemedSplitterWindowImpl/#32770/SysTabControl32",
+                    "ControlID": 15342,
+                    "AccessibleName": "Configuration",
+                    "AccessibleType": "Window/PageTabList/PageTab",
+                    "SkipCount": 3,
+                    "Action": "ItemExists"
+                },
+                { "ActionText": "Please select a distribution type for your installation package", "Action": "Prompt" },
+                {
+                    "WindowClass": "AI_SplitterWindow/AI_ThemedPaneContainer/AI_ThemedSplitterWindowImpl/#32770/SysTabControl32/#32770",
+                    "AccessibleName": "Single MSI (resources inside)",
+                    "AccessibleType": "RadioButton",
+                    "Action": "HighLightRect"
+                },
+                {  "WaitTime": 60000, "Action": "Wait"},
+                { "ActionText": "Installer Analitics - Transform real-time install information of your apps into action", "Action": "Prompt" },
+                {
+                    "WindowClass": "AiMainFrame/AI_SplitterWindow/AI_SplitterWindow/ATL:[0-9A-F]+",
+                    "AccessibleName": "Analytics",
+                    "AccessibleType": "List/ListItem/StaticText",
+                    "Action": "HighLightRect"
+                },
+                {
+                    "WindowText": "Track Your Application installs using Installer Analytics - The first 2 months are FREE",
+                    "WindowClass": "AI_SplitterWindow/AI_SplitterWindow/AI_ThemedPaneContainer/#32770/Button",
+                    "ControlID": 10571,
+                    "SkipCount": 3,
+                    "Action": [ "ItemExists", "HighLightRect"]
+                },
+                { "ActionText": "Track Your Application installs using Installer Analytics", "Action": "Prompt" },
+                {
+                    "WindowText": "Track Your Application installs using Installer Analytics - The first 2 months are FREE",
+                    "WindowClass": "AI_SplitterWindow/AI_SplitterWindow/AI_ThemedPaneContainer/#32770/Button",
+                    "ControlID": 10571,
+                    "Action": "IsButtonChecked"
+                },
+                {"Action": "DisableSkip"},
+                { "ActionText": "Save project", "Action": "Prompt" },
+                {
+                    "WindowClass": "UIRibbonCommandBarDock/UIRibbonCommandBar/UIRibbonWorkPane/NUIPane/NetUIHWND",
+                    "AccessibleName": "Save",
+                    "AccessibleType": "PushButton",
+                    "Action": "HighLightRect"
+                },
+                {
+                    "WindowText": "&Save",
+                    "WindowClass": "#32770/Button",
+                    "Action": "ItemExists"
+                },
+                { "ActionText": "After editing project name press \"Save\" button", "Action": "Prompt" },
+                {
+                    "WindowText": "&Save",
+                    "WindowClass": "#32770/Button",
+                    "Action": [ "HighLightRect", "Wait" ]
+                },
+                { "ActionText": "Add files to project", "Action": "Prompt" }, 
+                {
+                    "WindowClass": "AiMainFrame/AI_SplitterWindow/AI_SplitterWindow/ATL:[0-9A-F]+",
+                    "AccessibleName": "Files and Folders",
+                    "AccessibleType": "List/ListItem/StaticText",
+                    "Action": "HighLightRect"
+                },
+                {
+                    "WindowClass": "AI_ThemedPaneContainer/AI_SplitterWindow/AI_SplitterWindow/AI_ThemedPaneContainer/SysTreeView32",
+                    "AccessibleName": "Application Folder",
+                    "AccessibleType": "Outline/OutlineItem[@name='Target Computer']/OutlineItem",
+                    "Action": ["ItemExists", "HighLightRect"]
+                },
+                { "ActionText": "Select \"Application Folder\"", "Action": "Prompt" },
+                {
+                    "WindowClass": "AI_ThemedPaneContainer/AI_SplitterWindow/AI_SplitterWindow/AI_ThemedPaneContainer/SysTreeView32",
+                    "AccessibleName": "Application Folder",
+                    "AccessibleType": "Outline/OutlineItem[@name='Target Computer']/OutlineItem[@State='selected']",
+                    "Action": "ItemExists"
+                },
+                { "ActionText": "Click \"Add Folder\" button from Ribbon toolbar", "Action": "Prompt" },
+                {
+                    "WindowClass": "UIRibbonCommandBarDock/UIRibbonCommandBar/UIRibbonWorkPane/NUIPane/NetUIHWND",
+                    "AccessibleName": "Add Folder",
+                    "AccessibleType": "Toolbar[@name='Add']/PushButton",
+                    "Action": "HighLightRect"
+                },
+                {
+                    "WindowText": "Select Folder",
+                    "WindowClass": "#32770/Button",
+                    "Action": "ItemExists"
+                },
+                { "ActionText": "Select folder containing your application files and press \"Select Folder\" button", "Action": "Prompt" },
+                {
+                    "WindowText": "Select Folder",
+                    "WindowClass": "#32770/Button",
+                    "Action": [ "HighLightRect", "Wait" ]
+                },
+                {"Action": "EnableSkip"},
+                { "ActionText": "Create shortcuts for your applications. Select your application main EXE file and press \"New Shortcut To\" from Ribbon toolbar", "Action": "Prompt" },
+                {
+                    "WindowClass": "UIRibbonCommandBarDock/UIRibbonCommandBar/UIRibbonWorkPane/NUIPane/NetUIHWND",
+                    "AccessibleName": "New Shortcut To",
+                    "AccessibleType": "Grouping[@name='New Shortcut To']/SplitButton",
+                    "Action": "HighLightRect"
+                },
+                {
+                    "WindowText": "Hot Key:",
+                    "WindowClass": "#32770/Static",
+                    "SkipCount": 3,
+                    "Action": "ItemExists"
+                },
+                { "ActionText": "Edit shortcut properties and press \"OK\" button", "Action": "Prompt" },
+                {
+                    "WindowText": "OK",
+                    "WindowClass": "AiMainFrame/#32770/Button",
+                    "Action": ["HighLightRect","Wait"]
+                },
+                { "ActionText": "Build Project", "Action": "Prompt" },
+                { "WindowClass": "NetUIHWND", "AccessibleName": "Build", "Action": "HighLightRect" },
+                { "WindowText": "Build finished successfully.", "Action": "ItemExists" },
+                { "Action": "HideSkip"},
+                { "Action": "HideHighlight"},
+                { "ActionText": "Congratulations! You compleated Advanced Installer welcome tutorial!", "Action": "Prompt" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,672 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer]
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\New Project]
+"Last New Project Language"="English (United States)"
+"Last operation"=dword:00000001
+"Use wizard"=dword:00000000
+"Last New Project Tab"=dword:00000002
+"Last New Project Type"=dword:0000000b
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\PackageCodes]
+"{786DFDCC-0E0D-4FC7-B3E1-9718385F9CAB}"="DefaultBuild:{52A8EE82-4972-4E02-815C-09BAE60CA1C9} "
+"{79B419E6-CF87-49CC-85C4-1C6BFFF35932}"="DefaultBuild:{E36B7B67-29F7-4F74-BC03-D34AA65F8DA1} "
+"{AAF40F3A-A61A-45DE-BB44-76CB1DDA7FE6}"="DefaultBuild:{1EC96EB9-5C4C-4916-BF09-4BA8688CE4C1} "
+"{6C449215-2CE0-4DF7-8786-4414B6242C1E}"="DefaultBuild:{C39C544D-9BFC-4230-BAB8-648CAD3BA579} "
+"{6C5B8E7B-0D56-4AF6-B140-CA05E305D7AD}"="DefaultBuild:{D149A956-5B1E-4415-A2DF-411ED1D2A799} "
+"{C1C73F5D-6D61-42CB-BE83-867DEAC8C41F}"="DefaultBuild:{F556F684-95D6-4925-A413-4AE9299CFFB7} "
+"{D0D9B62A-13D9-43A0-A7AF-EC1032B2DE2D}"="DefaultBuild:{6504EA49-EE34-47BD-ABBF-F8CDB8174254} "
+"{3F7BF498-654F-41A2-9DFD-B22BE0C27F85}"="DefaultBuild:{6160AF99-0B91-4A59-ACB8-A72E501AC9A3} "
+"{FB4B14FF-9781-4BB4-8E58-D031D4E968E8}"="DefaultBuild:{F9106D98-FB15-4D71-924D-2B1DC068B6F3} "
+"{5C26499B-FBD6-4570-88FD-EC8EFBE98B2D}"="DefaultBuild:{D983B6FB-2C24-4C65-B203-761B374212A9} "
+"{4E84D30D-EB7F-44F2-807F-509E8565E703}"="DefaultBuild:{43DF29FC-9107-44E4-B7E8-28871A8F61F6} "
+"{FFB4C287-32E1-47C8-95FA-D7B193E3741F}"="DefaultBuild:{2F76BCF0-6FB5-43D4-83E8-896DA1011233} "
+"{8BF77E23-17A1-42DF-9A48-B795858B271E}"="DefaultBuild:{9C3167C5-D37B-411C-ACCA-670B071032C3} "
+"{661BFFCA-8C19-4455-A197-A93A50B3539B}"="DefaultBuild:{00D274F3-21C3-41F6-826B-23882A60E52D} "
+"{1E4A6A9B-BA1B-402E-9B73-F58F55F8383E}"="DefaultBuild:{A450D9DC-942D-41B2-9A25-B4AE04A3760D} "
+"{FF3C6E52-E086-40E4-9F6C-5EA1B562834A}"="DefaultBuild:{668EC433-06E0-4BE7-A5EB-97A83D40494A} "
+"{866AFA19-6164-4115-BE8C-9AE0E643FBE9}"="DefaultBuild:{1B7C13D4-3402-45D8-B0C2-527FDBF66554} "
+"{8010FA83-DD7F-4B66-AFDE-8D75268DA8B8}"="DefaultBuild:{0A77738A-6F7F-457E-ACB1-2973D5096409} "
+"{11E585A3-B36E-4ADA-BEC6-6DC7BBF894B8}"="DefaultBuild:{C05C9D70-CD1A-4849-9EFA-ABD79CC419B2} "
+"{6D85C081-CFD0-4F0E-8116-5826FABEA52A}"="DefaultBuild:{C826CED5-569A-499A-A77A-3B3F35E9D3DD} "
+"{DBF4931D-0409-41B8-A0D6-200CB34774B8}"="DefaultBuild:{99053091-4863-4C82-9986-99B3B8037CF1} "
+"{9D55219F-6DD5-4ED2-BFED-D01FB0B877AC}"="DefaultBuild:{F0275B28-8F20-475A-919F-DE4266284E4F} "
+"{71DCA477-A879-40BE-BB65-D4CD363B0511}"="DefaultBuild:{7E0390C7-A7E5-4DB7-A478-9C08012BB993} "
+"{2E7DAA7E-4E9A-4079-9024-FD9160A1B357}"="DefaultBuild:{B8605326-564D-44FD-A9E2-4B24B7EB05C6} "
+"{01EB3638-4EDC-48CA-A0AF-A115B7DC49B6}"="DefaultBuild:{AB9BE288-EEF1-4BFD-A91F-D6139F1DFCAB} "
+"{098A0E89-F2A9-4566-836C-1E0CD7C3BA53}"="DefaultBuild:{A56DA770-B46A-4775-B9E5-A566B4A1F0F4} "
+"{4247B45E-076F-49D0-823E-3E10500814B8}"="DefaultBuild:{00FFBDC8-6BEA-4501-ABF9-C6504B89DA46} "
+"{9FDD2763-D516-407E-B0AA-C227D898D08D}"="DefaultBuild:{76F74C61-7383-45A5-90DF-40E98F7FB029} "
+"{FC792ED0-1CDB-494F-9909-4A49FFDE70AF}"="DefaultBuild:{26085CB2-1A53-46F3-AD82-0E8AF636E774} "
+"{38C5E794-409E-4072-A8CD-6673031F6D21}"="DefaultBuild:{92A557A7-C417-408B-B21B-538B33E1096E} "
+"{48C21B3F-DD8E-45ED-BE3A-6E63BF5E24B6}"="DefaultBuild:{ECDF1ECB-0BDE-49C1-B1AC-D99A61562659} "
+"{B44B1646-559D-481E-A48C-4718904E9136}"="DefaultBuild:{4124EC57-25C8-4E19-A824-EA8C48694220} "
+"{BA17E067-9C22-4F31-B6A0-3EEABF72AF40}"="DefaultBuild:{2EA2A455-BC43-4C80-82FC-5095324092E2} "
+"{4F2E2A8A-E46E-4CA1-9357-A06585233C7A}"="DefaultBuild:{DE6EDB19-1481-4FAE-B8E2-F2306D51588F} "
+"{F1217A26-28D9-4C86-BB35-FD1199EC5B0B}"="DefaultBuild:{23164C75-C4CB-4108-99EE-0BF1A6F2241D} "
+"{A10F923C-6862-461B-9534-59A1F017814E}"="DefaultBuild:{4D733200-1E4E-446F-8D2E-F1A73BADFEA5} "
+"{F6CB8E61-5BBE-4B5C-98D8-1FBC805BFAF8}"="DefaultBuild:{2EBBF7F9-59D4-4F35-AA9F-6026A6A4F3A3} "
+"{8904087E-4819-40E0-9BA6-76300112E8B1}"="DefaultBuild:{426C0C35-3DE2-4DAB-AB66-E0703DCC60EA} "
+"{4A4C4F4E-4A92-4C7D-8CD4-C8AD9887C906}"="DefaultBuild:{04590423-FD5E-4745-9299-D44E72F864E9} "
+"{FCDD4301-8227-4FA9-B12F-774FFF5A34FA}"="DefaultBuild:{24D4B214-4118-4826-A2A4-C597C4D40500} "
+"{9B649370-B8D1-41F9-B40D-6F9CC30AD63F}"="DefaultBuild:{9FAC5EA2-0413-484F-915F-DB5B12DBD374} "
+"{D8181785-0A35-4CCA-A96F-5E65E47CFE89}"="DefaultBuild:{5E2B3F67-B460-45E1-97B7-0A9B06ADB461} "
+"{E2566C52-7320-4ECA-B335-C85A784CA370}"="DefaultBuild:{D14F805C-2709-4BA6-A4AA-578A068FCD52} "
+"{A2580203-D07B-435B-BC86-918C3E940228}"="DefaultBuild:{0C69EA1E-9688-47E9-9D19-9F09C47F70FC} "
+"{1117A70B-9016-4360-8514-8EBFE7800FD0}"="DefaultBuild:{96B15980-51C1-4843-9626-2249873D48DB} "
+"{EA389787-4AFA-4377-8C8F-4847E2D63373}"="DefaultBuild:{8A1FA08D-C2A2-44C6-9BC9-44FCBCC171A1} "
+"{519FF570-34DE-4909-B915-9B586F7FB4B6}"="DefaultBuild:{46D27954-5D0F-4C98-B0F9-91B2EAED2B7E} "
+"{F0113A77-0711-4187-B81C-C1908A15C7F5}"="DefaultBuild:{5A74D038-1A14-477E-86B4-24DF8D09835C} "
+"{73F3817B-13D8-4F1F-A444-AD1D165AF1FC}"="DefaultBuild:{D83490BE-2166-4C22-B255-62795284BB98} "
+"{D3EA7EB2-1CE2-4E23-8777-87DD8325DD27}"="DefaultBuild:{DE616766-BD83-49D0-A05B-B21DA7D6902F} "
+"{5FFD8F7D-04FA-4F6E-B370-840174563D99}"="DefaultBuild:{54D85126-DD0D-43B9-9F88-165683BC803A} "
+"{C347D3A7-DB05-461A-9C6A-0924A100968C}"="DefaultBuild:{07564B7E-AEED-45BC-8F37-85A1DA1A3BD4} "
+"{A12588F4-1CDA-42C7-93A1-077D3DA93822}"="DefaultBuild:{2F2FE0C9-DD4E-4C23-80DE-5050EA13992A} "
+"{21C98B66-9115-42F3-BAA3-48650EFCB427}"="DefaultBuild:{EA0450EE-FFBF-4EF2-8391-204342E76F3D} "
+"{1343DEAC-9D50-4756-BF77-963CDEDBB742}"="DefaultBuild:{836EF4CB-D21A-48F4-A725-4FA83878DCA6} "
+"{1CC64301-71D7-4757-A193-454CBE695FB8}"="DefaultBuild:{94F04D05-C536-4426-9C3E-54C479A5707F} "
+"{7C9532FC-10BC-4B2A-885D-8A57EE2954C6}"="DefaultBuild:{2884F889-C86B-45CD-9D64-47822B8C003A} "
+"{C5A1B9C8-B74D-413D-A4EA-E2C6E53DEA32}"="DefaultBuild:{CF5C2552-69E4-4FCD-97F6-708DF7E98ADB} "
+"{6B8D653B-F066-48C5-8570-03EF60886B36}"="DefaultBuild:{6037D155-FF71-4D99-8052-4F38DB2C0884} "
+"{31160A02-B16C-4517-8902-CCFF769993C8}"="DefaultBuild:{95050674-77BA-417A-8856-B9977F2ACFDC} "
+"{2D6C1DDD-4FFC-4E83-B680-F7E4F6DECC5A}"="DefaultBuild:{2F7DBE17-AEC8-47E7-9ED9-B12B74F75953} "
+"{F990083E-F8F9-47E0-85FF-0971F7FD78C5}"="DefaultBuild:{CC407BB9-57CB-4753-9004-B15C1E3CC622} "
+"{CB9C2A85-A997-4C42-BEAD-4DB75B0C9396}"="DefaultBuild:{D1B808F7-D178-485C-9DFC-526A028D5198} "
+"{DDC5199C-3AFD-4414-87C9-CD4D633B22D6}"="DefaultBuild:{6BDC462D-1D03-4A15-A87E-FAC51A7C961A} "
+"{208121EC-85ED-4284-B500-5339D1DC3CB1}"="DefaultBuild:{BADAC91F-0747-444D-8AF0-58C350ADC4E6} "
+"{E85C1CE9-81EB-4DF5-B353-2801D691EE78}"="DefaultBuild:{B49BB9D6-7400-4A78-9572-EF4907898D90} "
+"{E91EC0AA-1ED1-48D4-B6BF-D3F152DE24D0}"="DefaultBuild:{BA0D3FB9-7B6B-41E4-BED8-469373708458} "
+"{75AD5157-C08E-449A-BCDF-1D12F08E17E6}"="DefaultBuild:{19E20016-11EB-41F9-AE7F-D001F2C93296} "
+"{FDC30E7A-E798-4EB8-BF65-4904DA906D24}"="DefaultBuild:{E1CB2B46-95B6-4689-9E29-5FD2E5EEFE19} "
+"{6CDF01CC-22DA-4E87-BCC3-03335C1FC0ED}"="DefaultBuild:{0AF382F5-1FAE-4F21-92B9-BC0758CCC41A} "
+"{6E76422F-0378-459F-869B-4CD7751DECEF}"="DefaultBuild:{9AF4580B-6A51-4F07-88AC-0A000047AECE} "
+"{1DFDA5C6-B5FF-4841-9C2A-56C1C50D2E08}"="DefaultBuild:{9A2F636E-CDB7-4E5E-B30B-1AE452E1AEB2} "
+"{AB948A65-B8C0-4141-B415-F707D7E5720D}"="DefaultBuild:{1DBA96B3-A07C-4072-A915-4D70D13380E6} "
+"{939F4FAE-9575-4595-AB6C-11EF81C65D05}"="DefaultBuild:{611AD6A2-9B55-4470-96A1-647F6D595C61} "
+"{3AD820BF-3DD0-41CA-8977-1DF821201EFE}"="DefaultBuild:{FF69F438-A866-45E3-AB0A-14417E345752} "
+"{FA97DF97-D374-45BD-AC06-952AD3BF5684}"="DefaultBuild:{091F5FEA-1494-45CE-9D00-2960C53BA13C} "
+"{13633746-8F84-4274-9607-B97FA3CC6E91}"="DefaultBuild:{4630ED1B-4D73-46EF-8696-FECE2D28B0E9} "
+"{F4A4872A-9A1E-4201-983B-6691B1D08572}"="DefaultBuild:{281ED373-F471-4F78-AE76-6065204EBC98} "
+"{39924705-CDDE-4ADC-B713-511E9BA1866D}"="DefaultBuild:{7DC585EC-EB54-4128-B67E-73F6141E0751} "
+"{6AB631E4-5A54-4BE7-8F5B-7E60DDAE76DB}"="DefaultBuild:{D056E7CE-007D-4BC5-BB56-4474B67A2BE5} "
+"{5C322520-13F2-409E-8C94-55EA7F353A29}"="DefaultBuild:{42FAEA97-51BD-43E9-9181-A2FC386C1F8C} "
+"{08768D95-CC44-42F0-BDE2-0B62DBE4ADB5}"="DefaultBuild:{2D7A702C-5658-4F15-BA01-115ECEE3A99F} "
+"{2ACFAB10-9F39-475C-8633-306AA94B1D20}"="DefaultBuild:{614131A7-2630-40DF-9827-EC87A5C2A034} "
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects]
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{01263E78-59FF-4C92-B2CD-1ECF10554776}]
+"PathVariablesUsage"="0"
+"Active View"=dword:0000908a
+"Current Build"="DefaultBuild"
+"Active Element"="37002?*?2"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+"Icon Files Folder"="E:\\OTH_CODE\\DH_CODE_MAIN\\ALL_IMAGES"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{01263E78-59FF-4C92-B2CD-1ECF10554776}\Dialog States]
+"class MsiFilesView"="84:9:ClassName13:SysTreeView3212:ExpansionMap39:131111101111110000011011010000000000100"
+"class MsiOrgView"="606:9:ClassName13:SysTreeView3212:ExpansionMap560:31011011011011011011101101110110111011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011101101101101101101101101101101101101101101101111111011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011011110111011011011011011011011011011011011011011011011011011"
+"class MsiRegistryView"="77:9:ClassName17:AiKeyNotifierCtrl12:ExpansionMap28:1111301110111110111110111101"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{7360CA2C-881F-4628-A8E1-B271D9A1718C}]
+"PathVariablesUsage"="0"
+"Icon Files Folder"="E:\\OTH_CODE\\DH_CODE_MAIN\\ALL_IMAGES"
+"Active View"=dword:0000908a
+"Current Build"="DefaultBuild"
+"Active Element"="37002?*?2"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{7360CA2C-881F-4628-A8E1-B271D9A1718C}\Dialog States]
+"class MsiFilesView"="81:9:ClassName13:SysTreeView3212:ExpansionMap36:131010101111110001011010000000000100"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{811DAE18-35F6-48AB-B8B8-6D3CD817F1AC}]
+"Icon Files Folder"="E:\\OTH_CODE\\DH_CODE_MAIN\\ALL_IMAGES"
+"PathVariablesUsage"="0"
+"Active View"=dword:00009089
+"Current Build"="DefaultBuild"
+"Active Element"="37001?*?Build?DefaultBuild?*?0"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{829D383F-0C49-477B-B9F4-BABC15C0A9EF}]
+"Active View"=dword:0000908a
+"Current Build"="DefaultBuild"
+"Active Element"="37002?*?0"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{84FDBE58-A3F9-4F95-B526-EBB8880B0F35}]
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{8D657319-1A2F-479A-9A76-5373F0985385}]
+"PathVariablesUsage"="0"
+"Icon Files Folder"="E:\\OTH_CODE\\DH_CODE_MAIN\\ALL_IMAGES"
+"Active View"=dword:0000908b
+"Current Build"="DefaultBuild"
+"Active Element"="37003?*?Directory?APPDIR"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{8D657319-1A2F-479A-9A76-5373F0985385}\Dialog States]
+"class MsiFilesView"="84:9:ClassName13:SysTreeView3212:ExpansionMap39:131010101111110000001011010000000000100"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{90219A7A-17F4-4F2A-AEA7-1450F05E451A}]
+"Icon Files Folder"="E:\\DH_SETUP_ADV\\Deloy_HospitalSMS"
+"PathVariablesUsage"="0"
+"Active View"=dword:0000908a
+"Current Build"="DefaultBuild"
+"Active Element"="37002?*?2"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+"All Files Folder"="E:\\DH_SETUP_ADV\\Deloy_HospitalSMS"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{90219A7A-17F4-4F2A-AEA7-1450F05E451A}\Dialog States]
+"class MsiOrgView"="401:9:ClassName13:SysTreeView3212:ExpansionMap355:3101110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110111011011011011011011011011011011011011011011011011011011101101101101101101101101101101101101101101101101101101101101101101101101101101111011011011011011011011011011"
+"class MsiFilesView"="81:9:ClassName13:SysTreeView3212:ExpansionMap36:131111101111110011101010000000000100"
+"class MsiRegistryView"="77:9:ClassName17:AiKeyNotifierCtrl12:ExpansionMap28:1111301110111110111110111101"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{98889F3C-E668-4B41-9CEC-6AB81115FEBC}]
+"Icon Files Folder"="G:\\KhaoSat"
+"All Files Folder"="G:\\KhaoSat"
+"PathVariablesUsage"="0"
+"Active View"=dword:00009094
+"Current Build"="DefaultBuild"
+"Active Element"="37012?*"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{98889F3C-E668-4B41-9CEC-6AB81115FEBC}\Dialog States]
+"class MsiFilesView"="80:9:ClassName13:SysTreeView3212:ExpansionMap35:11111310111111000111010000000000100"
+"class MsiOrgView"="504:9:ClassName13:SysTreeView3212:ExpansionMap458:31011101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101101111111101101101111011011011011011011011011011011011011011011011"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{98959BCA-4324-418B-9A3D-7467C1DBD37D}]
+"Icon Files Folder"="E:\\OTH_CODE\\OTH\\OTH.Sumi.Dental"
+"PathVariablesUsage"="0"
+"All Files Folder"="E:\\OTH_CODE\\OTH\\OTH.Sumi.Dental"
+"Active View"=dword:0000908a
+"Current Build"="DefaultBuild"
+"Active Element"="37002?*?0"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{98959BCA-4324-418B-9A3D-7467C1DBD37D}\Dialog States]
+"class MsiFilesView"="80:9:ClassName13:SysTreeView3212:ExpansionMap35:13101010111111000111010000000000100"
+"class MsiRegistryView"="77:9:ClassName17:AiKeyNotifierCtrl12:ExpansionMap28:1111301110111110111110111101"
+"class MsiExtView"="45:9:ClassName13:SysTreeView3212:ExpansionMap1:3"
+"class MsiOrgView"="314:9:ClassName13:SysTreeView3212:ExpansionMap268:3101110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110110111101101101101101101101101111011011011011011011"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{CEBC9569-384D-4EAD-88B4-C0FC510DCCFE}]
+"Active View"=dword:0000908a
+"Current Build"="DefaultBuild"
+"Active Element"="37002?*?0"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{D39D849E-4E5E-40F4-8CEE-10710F6F2BD3}]
+"Icon Files Folder"="E:\\OTH_CODE\\DH_CODE_MAIN\\ALL_IMAGES"
+"PathVariablesUsage"="0"
+"Active View"=dword:0000908b
+"Current Build"="DefaultBuild"
+"Active Element"="37003?*?Directory?APPDIR"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+"All Files Folder"="C:\\Users\\OngTrieuHau\\Documents\\GitHub\\dhg.hospitalprinter\\Deploy_Libraries"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{D39D849E-4E5E-40F4-8CEE-10710F6F2BD3}\Dialog States]
+"class MsiFilesView"="84:9:ClassName13:SysTreeView3212:ExpansionMap39:131010101111110000011011010000000000100"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{E1A7A85B-90EA-4612-9D4E-0535641D629B}]
+"Active View"=dword:00009089
+"Current Build"="DefaultBuild"
+"Active Element"="37001?*?Build?DefaultBuild?*?0"
+"LastBuild"=""
+"Rebuild"=dword:00000000
+"Icon Files Folder"="E:\\OTH_CODE\\DH_CODE_MAIN\\ALL_IMAGES"
+"PathVariablesUsage"="0"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Projects\{E1A7A85B-90EA-4612-9D4E-0535641D629B}\Dialog States]
+"class MsiFilesView"="81:9:ClassName13:SysTreeView3212:ExpansionMap36:131010101111110001011010000000000100"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List]
+"DocumentCount"=dword:0000000a
+"Last Opened Document"="C:\\Users\\OngTrieuHau\\Documents\\GitHub\\dhg.hospitalprinter\\Deploy_Tools\\Setup.Adv.aip"
+"Document1"="C:\\Users\\OngTrieuHau\\Documents\\GitHub\\dhg.hospitalprinter\\Deploy_Tools\\Setup.Adv.aip"
+"Document2"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupPrinterAdv.aip"
+"Document3"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupAdmin.aip"
+"Document4"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupFeesAdv.aip"
+"Document5"="E:\\OTH_CODE\\OTH\\OTH.Sumi.Dental\\Deploy\\OTH.Sumi.Dental.aip"
+"Document6"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\HospitalSMS.aip"
+"Document7"="G:\\KhaoSatKhachHang.aip"
+"Document8"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupServices.aip"
+"Document9"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupHRM.aip"
+"Document10"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\HospitalPrinterSmartOut.aip"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\C:/Users/OngTrieuHau/Documents/GitHub/dhg.hospitalprinter/Deploy_Tools/Setup.Adv.aip]
+"Product Name"="DHG.Hospital Printer"
+"Product Version"="3.17.05250"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/DH_CODE_MAIN/DH_ONGTRIEUHAU/PROJECT_SETUP_ADV/AdvancedInstallers/18.6/SetupAdmin-Portable.17.1.1.aip]
+"Product Name"="DHG.Hospital Admin"
+"Product Version"="3.17.0528.0"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/DH_CODE_MAIN/DH_ONGTRIEUHAU/PROJECT_SETUP_ADV/AdvancedInstallers/18.6/SetupAdmin-Portable.18.6.aip]
+"Product Name"="DHG.Hospital Admin"
+"Product Version"="3.17.0528.0"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/HospitalPrinterSmartOut.aip]
+"Product Name"="HospitalPrinterSmartOut"
+"Product Version"="1.18.10150"
+"Project Type"="professional"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/HospitalSMS.aip]
+"Product Name"="DH.Hospital SMS"
+"Product Version"="1.18.0905.0"
+"Project Type"="professional"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/HospitalSMSClient.aip]
+"Product Name"="DH.HospitalSMSClient"
+"Product Version"="1.18.0905.0"
+"Project Type"="professional"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/SetupAdmin.aip]
+"Product Name"="DHG.Hospital Admin"
+"Product Version"="3.17.0528.0"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/SetupFeesAdv.aip]
+"Product Name"="DHG.Hospital Fees"
+"Product Version"="3.17.0526.2"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/SetupHRM.aip]
+"Product Name"="DHG.Hospital HRM"
+"Product Version"="3.17.0622.0"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/SetupPrinterAdv.aip]
+"Product Name"="DHG.Hospital Printer"
+"Product Version"="3.17.05250"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/SetupServices.aip]
+"Product Name"="DHG.Hospital Services"
+"Product Version"="3.17.0606.0"
+"Project Type"="architect"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/INSTALLER_PROJECTS/Adv.18.6-Portable/SetupSMS.aip]
+"Product Name"="DH.HospitalSMS"
+"Product Version"="1.0.0"
+"Project Type"="enterprise"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\E:/OTH_CODE/OTH/OTH.Sumi.Dental/Deploy/OTH.Sumi.Dental.aip]
+"Product Name"="OTH.Sumi.Dental"
+"Product Version"="1.21.1128.0"
+"Project Type"="professional"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\G:/KhaoSatKhachHang.aip]
+"Product Name"="KhaoSatKhachHang"
+"Product Version"="1.0.0"
+"Project Type"="professional"
+"Icon Path"=""
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Settings]
+"Window Placement"=hex:2c,00,00,00,02,00,00,00,03,00,00,00,ff,ff,ff,ff,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ec,01,00,00,4b,00,00,00,0c,11,00,00,77,08,00,\
+  00
+"Project Options Panel Expanded"=dword:00000001
+"Autoload Last Saved Project"=dword:00000000
+"Project Load Save Folder"="C:\\Users\\OngTrieuHau\\Documents\\GitHub\\dhg.hospitalprinter\\Deploy_Tools"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Settings\Account]
+"Stamp"="2021-09-08;2021-10-11;2021-10-19;2021-10-22;2021-10-29;2021-11-01;2021-11-02;2021-11-03;2021-11-08;2021-11-10;2021-11-11;2021-11-16;2021-11-17;2021-11-18;2021-11-22;2021-11-26;2021-11-28;2021-11-30;2021-12-04;2021-12-06;2021-12-08;2021-12-09;2021-12-11;2021-12-13;2021-12-14"
+"PromptTimestamp"="2021-12-13"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Start Page]
+"FirstSeenDate"=hex:e2,07,04,00,01,00,17,00,00,00,00,00,00,00,00,00
+"Last Tweet ID"="1470419477976256512"
+"NewsLastModified"=hex:e2,07,04,00,04,00,13,00,0b,00,0d,00,14,00,00,00
+"OptionsState"=dword:00000001
+"EnableMsgCenter"=dword:00000000
+"Persona"="developer"
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Templates List]
+"TemplatesCount"=dword:00000062
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions]
+"Left Pane View"=dword:00000001
+"Show Only NonEmpty Views"=dword:00000000
+"Ribbon State 1"=hex:3c,73,69,71,3a,63,75,73,74,6f,6d,55,49,20,78,6d,6c,6e,73,\
+  3a,73,69,71,3d,22,68,74,74,70,3a,2f,2f,73,63,68,65,6d,61,73,2e,6d,69,63,72,\
+  6f,73,6f,66,74,2e,63,6f,6d,2f,77,69,6e,64,6f,77,73,2f,32,30,30,39,2f,72,69,\
+  62,62,6f,6e,2f,71,61,74,22,3e,3c,73,69,71,3a,72,69,62,62,6f,6e,20,6d,69,6e,\
+  69,6d,69,7a,65,64,3d,22,66,61,6c,73,65,22,3e,3c,73,69,71,3a,71,61,74,20,70,\
+  6f,73,69,74,69,6f,6e,3d,22,30,22,3e,3c,73,69,71,3a,73,68,61,72,65,64,43,6f,\
+  6e,74,72,6f,6c,73,3e,3c,73,69,71,3a,63,6f,6e,74,72,6f,6c,20,69,64,51,3d,22,\
+  73,69,71,3a,33,37,32,36,31,22,20,76,69,73,69,62,6c,65,3d,22,74,72,75,65,22,\
+  20,61,72,67,75,6d,65,6e,74,3d,22,30,22,20,2f,3e,3c,73,69,71,3a,63,6f,6e,74,\
+  72,6f,6c,20,69,64,51,3d,22,73,69,71,3a,33,37,32,36,33,22,20,76,69,73,69,62,\
+  6c,65,3d,22,74,72,75,65,22,20,61,72,67,75,6d,65,6e,74,3d,22,30,22,20,2f,3e,\
+  3c,73,69,71,3a,63,6f,6e,74,72,6f,6c,20,69,64,51,3d,22,73,69,71,3a,33,37,32,\
+  36,34,22,20,76,69,73,69,62,6c,65,3d,22,74,72,75,65,22,20,61,72,67,75,6d,65,\
+  6e,74,3d,22,30,22,20,2f,3e,3c,73,69,71,3a,63,6f,6e,74,72,6f,6c,20,69,64,51,\
+  3d,22,73,69,71,3a,33,32,37,39,36,22,20,76,69,73,69,62,6c,65,3d,22,74,72,75,\
+  65,22,20,61,72,67,75,6d,65,6e,74,3d,22,30,22,20,2f,3e,3c,73,69,71,3a,63,6f,\
+  6e,74,72,6f,6c,20,69,64,51,3d,22,73,69,71,3a,37,35,22,20,76,69,73,69,62,6c,\
+  65,3d,22,74,72,75,65,22,20,61,72,67,75,6d,65,6e,74,3d,22,30,22,20,2f,3e,3c,\
+  73,69,71,3a,63,6f,6e,74,72,6f,6c,20,69,64,51,3d,22,73,69,71,3a,37,36,22,20,\
+  76,69,73,69,62,6c,65,3d,22,74,72,75,65,22,20,61,72,67,75,6d,65,6e,74,3d,22,\
+  30,22,20,2f,3e,3c,73,69,71,3a,63,6f,6e,74,72,6f,6c,20,69,64,51,3d,22,73,69,\
+  71,3a,36,34,22,20,76,69,73,69,62,6c,65,3d,22,74,72,75,65,22,20,61,72,67,75,\
+  6d,65,6e,74,3d,22,30,22,20,2f,3e,3c,2f,73,69,71,3a,73,68,61,72,65,64,43,6f,\
+  6e,74,72,6f,6c,73,3e,3c,2f,73,69,71,3a,71,61,74,3e,3c,2f,73,69,71,3a,72,69,\
+  62,62,6f,6e,3e,3c,2f,73,69,71,3a,63,75,73,74,6f,6d,55,49,3e
+"View Statusbar"=dword:00000001
+"Left Menu Large Icons"=dword:00000000
+"Left Menu Display Mode"="simple"
+"Product Information"=dword:00000000
+"Resources"=dword:00000000
+"Package Definition"=dword:00000000
+"Requirements"=dword:00000000
+"User Interface"=dword:00000000
+"System Changes"=dword:00000000
+"Server"=dword:00000000
+"Custom Behavior"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\ActionText]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Action"=dword:000000a0
+"1.Description"=dword:000000a0
+"2.Template"=dword:000000a0
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Archive Content]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00,04,00,00,00
+"0.Name"=dword:000000a0
+"1.Size"=dword:00000064
+"2.Type"=dword:00000064
+"3.Version"=dword:00000064
+"4.Physical Source"=dword:000000a0
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Assemblies]
+"Splitter Position"=dword:0000030d
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\AssemblyView]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Sync Status"=dword:00000064
+"1.Name"=dword:00000064
+"2.Value"=dword:0000012c
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Build Events List]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Command"=dword:000000b4
+"1.Arguments"=dword:000000b4
+"2.Description"=dword:00000140
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\ContentListView]
+"Order Array"=hex:00,00,00,00,01,00,00,00
+"0.Name / Path"=dword:00000078
+"1.Details"=dword:00000965
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Dialogs]
+"Splitter Position"=dword:0000030d
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\DlgProp]
+"Splitter Position"=dword:ffffffff
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\File Associations]
+"Splitter Position"=dword:00000326
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Name"=dword:00000096
+"1.Program"=dword:00000096
+"2.ProgId Description"=dword:00000096
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\File Picker]
+"Splitter Position"=dword:00000172
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00,04,00,00,00,\
+  05,00,00,00
+"0.Name"=dword:00000272
+"1.Size"=dword:00000064
+"2.Type"=dword:00000064
+"3.Version"=dword:00000064
+"4.Physical Source"=dword:000000a0
+"14.Project Path"=dword:000000a0
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Files View]
+"Horizontal Splitter Position"=dword:00000014
+"Splitter Position"=dword:00000209
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00,05,00,00,00,\
+  04,00,00,00,06,00,00,00
+"0.Name"=dword:00000217
+"1.Size"=dword:00000064
+"2.Type"=dword:00000064
+"3.Version"=dword:000000d3
+"4.Physical Source"=dword:0000054d
+"14.Project Path"=dword:000000a0
+"Sorted Column"=dword:00000005
+"Sort Order"=dword:ffffffff
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,\
+  00,00,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00
+"7.Date Modified"=dword:0000012b
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\FindResult]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Type"=dword:00000078
+"1.ID"=dword:00000078
+"2.Matching Criteria"=dword:00000258
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Main Frame]
+"Splitter Position"=dword:000002c8
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Media]
+"Splitter Position"=dword:000001dc
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\MsiDirectEditor]
+"Splitter Position"=dword:0000030d
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\NotesList]
+"Order Array"=hex:00,00,00,00
+"0.Name"=dword:00000335
+"Visible Array"=hex:01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Optional Package List]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Name"=dword:00000190
+"1.Publisher"=dword:00000190
+"2.Version"=dword:00000190
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Organization]
+"Horizontal Splitter Position"=dword:00000354
+"Splitter Position"=dword:0000030d
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00
+"0.Category GUID"=dword:000000a0
+"1.Qualifier"=dword:00000078
+"2.Description"=dword:00000078
+"3.Feature"=dword:00000064
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Output Pane Splitter]
+"Splitter Position"=dword:000003fc
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\PathsPerBuildList]
+"Order Array"=hex:00,00,00,00,01,00,00,00
+"0.Build"=dword:000000a0
+"1.Source Path"=dword:000001c2
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Pdb Files List]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Portable Executable"=dword:00000140
+"1.Architecture"=dword:000000b4
+"2.Pdb path"=dword:00000140
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\PermissionsPage]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Domain"=dword:00000032
+"1.Username"=dword:0000004c
+"2.Permissions"=dword:00000362
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Project Summary]
+"Splitter Position"=dword:00000214
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\ProjectGuids]
+"Order Array"=hex:00,00,00,00,01,00,00,00
+"0.Language"=dword:00000118
+"1.Product Code"=dword:000008ed
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Registry View]
+"Splitter Position"=dword:0000030d
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.Name"=dword:000000a0
+"1.Type"=dword:00000064
+"2.Data"=dword:00000064
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,00,00,00,00,00,00,00,\
+  00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\RunLog]
+"Splitter Position"=dword:000002c8
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Scrollbars]
+"Left Pane SetupAdmin-Portable.17.1.1.aip 2850 Scroll Position X"=dword:00000000
+"Left Pane SetupAdmin-Portable.17.1.1.aip 2850 Scroll Position Y"=dword:00000000
+"Left Pane SetupAdmin-Portable.17.1.1.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupAdmin-Portable.17.1.1.aip 1888 Scroll Position Y"=dword:00000000
+"Left Pane SetupAdmin-Portable.18.6.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupAdmin-Portable.18.6.aip 1888 Scroll Position Y"=dword:00000000
+"Left Pane SetupAdmin.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupAdmin.aip 1888 Scroll Position Y"=dword:00000000
+"Left Pane SetupFeesAdv.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupFeesAdv.aip 1888 Scroll Position Y"=dword:00000000
+"Left Pane SetupHRM.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupHRM.aip 1888 Scroll Position Y"=dword:00000000
+"Left Pane SetupPrinterAdv.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupPrinterAdv.aip 1888 Scroll Position Y"=dword:00000000
+"Left Pane SetupServices.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupServices.aip 1888 Scroll Position Y"=dword:00000000
+"Left Pane SetupSMS.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane SetupSMS.aip 1888 Scroll Position Y"=dword:00000071
+"Left Pane SetupSMS.aip 1838 Scroll Position X"=dword:00000000
+"Left Pane SetupSMS.aip 1838 Scroll Position Y"=dword:00000000
+"Left Pane HospitalSMS.aip 1688 Scroll Position X"=dword:00000000
+"Left Pane HospitalSMS.aip 1688 Scroll Position Y"=dword:00000000
+"Left Pane HospitalSMSClient.aip 1688 Scroll Position X"=dword:00000000
+"Left Pane HospitalSMSClient.aip 1688 Scroll Position Y"=dword:00000000
+"Left Pane HospitalPrinterSmartOut.aip 1688 Scroll Position X"=dword:00000000
+"Left Pane HospitalPrinterSmartOut.aip 1688 Scroll Position Y"=dword:00000055
+"Left Pane KhaoSatKhachHang.aip 1688 Scroll Position X"=dword:00000000
+"Left Pane KhaoSatKhachHang.aip 1688 Scroll Position Y"=dword:00000000
+"Left Pane OTH.Sumi.Dental.aip 1688 Scroll Position X"=dword:00000000
+"Left Pane OTH.Sumi.Dental.aip 1688 Scroll Position Y"=dword:00000000
+"Left Pane Setup.Adv.aip 1888 Scroll Position X"=dword:00000000
+"Left Pane Setup.Adv.aip 1888 Scroll Position Y"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\SearchReferrers]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00
+"0.Type"=dword:00000078
+"1.ID"=dword:00000078
+"2.Details"=dword:000000c8
+"3.Target Item"=dword:000000c8
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\ServConfigFailureActions View]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00
+"0.#"=dword:00000014
+"1.Action"=dword:00000104
+"2.After"=dword:00000078
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Services]
+"Splitter Position"=dword:0000030d
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Themes-List]
+"Splitter Position"=dword:000000fa
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Upgrades]
+"Order Array"=hex:00,00,00,00,01,00,00,00,02,00,00,00,03,00,00,00,04,00,00,00
+"0.Upgrade Code"=dword:0000012c
+"1.Min. Ver."=dword:00000064
+"2.Max. Ver."=dword:00000064
+"3.Language"=dword:00000096
+"4.Property"=dword:000000b4
+"Sorted Column"=dword:00000000
+"Sort Order"=dword:00000001
+"Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,\
+  00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\WindPlace]
+"File Picker"=hex:2c,00,00,00,00,00,00,00,01,00,00,00,ff,ff,ff,ff,ff,ff,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,ff,7d,04,00,00,f9,01,00,00,84,0a,00,00,2b,06,00,00
+"MsiFilePropsSheet"=hex:2c,00,00,00,00,00,00,00,01,00,00,00,ff,ff,ff,ff,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,4e,05,00,00,d2,01,00,00,b3,09,00,00,53,06,00,\
+  00
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\XML Config]
+
+[HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\XML Config\{049A020C-6E4B-483E-A1A0-C8E391CA3606}]
+"D:\\PortableApps\\AdvancedInstaller\\v18.6Portable\\App\\ProgramFiles\\regid.2003-04.com.caphyon_Advanced Installer 14.8.swidtag"="*"
