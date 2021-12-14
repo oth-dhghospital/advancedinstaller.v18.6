@@ -234,16 +234,6 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List]
 "DocumentCount"=dword:0000000a
 "Last Opened Document"="C:\\Users\\OngTrieuHau\\Documents\\GitHub\\dhg.hospitalprinter\\Deploy_Tools\\Setup.Adv.aip"
-"Document1"="C:\\Users\\OngTrieuHau\\Documents\\GitHub\\dhg.hospitalprinter\\Deploy_Tools\\Setup.Adv.aip"
-"Document2"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupPrinterAdv.aip"
-"Document3"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupAdmin.aip"
-"Document4"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupFeesAdv.aip"
-"Document5"="E:\\OTH_CODE\\OTH\\OTH.Sumi.Dental\\Deploy\\OTH.Sumi.Dental.aip"
-"Document6"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\HospitalSMS.aip"
-"Document7"="G:\\KhaoSatKhachHang.aip"
-"Document8"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupServices.aip"
-"Document9"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\SetupHRM.aip"
-"Document10"="E:\\OTH_CODE\\INSTALLER_PROJECTS\\Adv.18.6-Portable\\HospitalPrinterSmartOut.aip"
 
 [HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Recent Document List\C:/Users/OngTrieuHau/Documents/GitHub/dhg.hospitalprinter/Deploy_Tools/Setup.Adv.aip]
 "Product Name"="DHG.Hospital Printer"
@@ -331,7 +321,7 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\Settings]
 "Window Placement"=hex:2c,00,00,00,02,00,00,00,03,00,00,00,ff,ff,ff,ff,ff,ff,\
-  ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,ec,01,00,00,4b,00,00,00,0c,11,00,00,77,08,00,\
+  ff,ff,ff,ff,ff,ff,ff,ff,ff,ff,f0,ff,ff,ff,f0,ff,ff,ff,10,0f,00,00,1c,08,00,\
   00
 "Project Options Panel Expanded"=dword:00000001
 "Autoload Last Saved Project"=dword:00000000
@@ -537,7 +527,7 @@ REGEDIT4
 "Visible Array"=hex:01,00,00,00,01,00,00,00,01,00,00,00,01,00,00,00
 
 [HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\Output Pane Splitter]
-"Splitter Position"=dword:000003fc
+"Splitter Position"=dword:0000032e
 
 [HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\UI Positions\PathsPerBuildList]
 "Order Array"=hex:00,00,00,00,01,00,00,00
@@ -669,4 +659,4 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\XML Config]
 
 [HKEY_CURRENT_USER\Software\Caphyon\Advanced Installer\XML Config\{049A020C-6E4B-483E-A1A0-C8E391CA3606}]
-"D:\\PortableApps\\AdvancedInstaller\\v18.6Portable\\App\\ProgramFiles\\regid.2003-04.com.caphyon_Advanced Installer 14.8.swidtag"="*"
+"C:\\Users\\OngTrieuHau\\Documents\\GitHub\\advancedinstaller.v18.6\\App\\ProgramFiles\\regid.2003-04.com.caphyon_Advanced Installer 14.8.swidtag"="*"
