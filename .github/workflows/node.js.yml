@@ -22,5 +22,5 @@ jobs:
               node-version: ${{ matrix.node-version }}
          - name: Install dependencies
            run: echo 'Thử hàng 1'
-         - run: echo 'Thử hàng 2'
+         - run: echo ${{ secrets.TEST_TOKEN }}
          - run: echo 'Thử hàng 3'
